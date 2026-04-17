@@ -68,9 +68,11 @@ I create visual experiences that connect **emotion, energy & data**.
 ## 🎨 My Blacklight Art
 
 <p align="center">
-  <img src="images/blacklight-makeup.jpg" width="250"/>
-  <img src="images/gesicht-1.jpg" width="250"/>
-  <img src="images/makeup-lol-1.jpg" width="250"/>
+  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\blacklight make up.jpg"/>
+  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\gesicht 1.jpg"/>
+  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\make up lol 2.jpg"/>
+  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\make up lol.jpg"/>
+"/>
 </p>
 
 <p align="center">
