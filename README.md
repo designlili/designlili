@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**designlili/designlili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋  
+I'm **Lili Mayerhöfer Kárándi**
 
-Here are some ideas to get you started:
+✨ Artist | 📊 Data Analyst | 🚀 Creator of *Lightscapes*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 About Me
+I blend **neon art & blacklight creativity** with **data-driven thinking**.  
+My work connects **emotion, energy & storytelling** with **analytics and technology**.
+
+---
+
+### 🎨 Creative Work
+- Neon & blacklight paintings (*Lightscapes*)
+- Custom bodypainting & wearable art
+- Fluorescent fashion & wall designs
+- Digital designs & print templates
+
+---
+
+### 📊 Data & Tech
+- Excel | Power BI
+- Python
+- PostgreSQL (pgAdmin)
+- Cloud basics (Azure)
+
+I love turning **data into clarity** and **ideas into visual experiences**.
+
+---
+
+### ⚡ What Drives Me
+- Creativity without limits  
+- Personal growth & transformation  
+- Combining art + logic  
+- Building something meaningful  
+
+---
+
+### 🌱 Currently
+- Expanding my data analytics skills  
+- Growing my creative business  
+- Creating unique visual experiences  
+
+---
+
+### 📫 Connect with Me
+- 💌 DM / Contact me for collaborations
+- 🎨 Custom art & design projects available
+
+---
+
+✨ *Never stop creating. Never stop growing.* ✨
