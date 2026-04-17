@@ -47,6 +47,60 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 ---
 
 ### 📫 Connect with Me
+
+
+## Hi 👋 I'm Lili Kárándi  
+
+✨ Artist | 📊 Data Analyst | Creator of *Lightscapes*  
+
+---
+
+### 🌌 About Me
+I combine **neon art & blacklight creativity** with **data analytics**.  
+I create visual experiences that connect **emotion, energy & data**.
+
+---
+
+### 🎨 My Art
+
+<p align="center">
+  <img src="images/art1.jpg" width="250"/>
+  <img src="images/art2.jpg" width="250"/>
+  <img src="images/art3.jpg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="images/art4.jpg" width="250"/>
+  <img src="images/art5.jpg" width="250"/>
+  <img src="images/art6.jpg" width="250"/>
+</p>
+
+---
+
+### 📊 Data Skills
+- Excel  
+- Power BI  
+- Python  
+- PostgreSQL (pgAdmin)  
+- Azure (Basics)
+
+---
+
+### ⚡ Vision
+Create something unique by combining  
+**art, technology & energy**
+
+---
+
+### 📫 Contact
+💌 Open for collaborations & custom artwork  
+
+---
+
+✨ *Never stop creating* ✨
+
+
+
 - 💌 DM / Contact me for collaborations
 - 🎨 Custom art & design projects available
 
