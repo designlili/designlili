@@ -65,12 +65,17 @@ I create visual experiences that connect **emotion, energy & data**.
 
 ### 🌌 Artwork Transformation
 
-Normal Light:
-<img src="images/art-normal.jpg" width="300"/>
+## 🎨 My Blacklight Art
 
-Blacklight:
-<img src="images/art-uv.jpg" width="300"/>
+<p align="center">
+  <img src="images/blacklight-makeup.jpg" width="250"/>
+  <img src="images/gesicht-1.jpg" width="250"/>
+  <img src="images/makeup-lol-1.jpg" width="250"/>
+</p>
 
+<p align="center">
+  <img src="images/makeup-lol-2.jpg" width="250"/>
+</p>
 ---
 
 ### 📊 Data Skills
