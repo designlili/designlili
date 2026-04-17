@@ -63,17 +63,13 @@ I create visual experiences that connect **emotion, energy & data**.
 
 ### 🎨 My Art
 
-<p align="center">
-  <img src="images/art1.jpg" width="250"/>
-  <img src="images/art2.jpg" width="250"/>
-  <img src="images/art3.jpg" width="250"/>
-</p>
+### 🌌 Artwork Transformation
 
-<p align="center">
-  <img src="images/art4.jpg" width="250"/>
-  <img src="images/art5.jpg" width="250"/>
-  <img src="images/art6.jpg" width="250"/>
-</p>
+Normal Light:
+<img src="images/art-normal.jpg" width="300"/>
+
+Blacklight:
+<img src="images/art-uv.jpg" width="300"/>
 
 ---
 
