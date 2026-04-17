@@ -47,7 +47,6 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 ### 📫 Connect with Me
 
 
-## Hi 👋 I'm Lili Kárándi  
 
 ✨ Artist | 📊 Data Analyst | Creator of *Lightscapes*  
 
