@@ -64,18 +64,11 @@ I create visual experiences that connect **emotion, energy & data**.
 
 ## 🎨 My Blacklight Art
 
-<p align="center">
-  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\blacklight make up.jpg"/>
-  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\gesicht 1.jpg"/>
-  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\make up lol 2.jpg"/>
-  <img src="C:\Users\User\Desktop\PROJEKTE FÜR GIT HUB\bilder schwarzlicht\make up lol.jpg"/>
-"/>
-</p>
+<img width="1365" height="2048" alt="make up lol" src="https://github.com/user-attachments/assets/db8b4f42-44cb-4b66-ac30-3f835dbf3d51" />
+<img width="1365" height="2048" alt="make up lol 2" src="https://github.com/user-attachments/assets/d6d3ac9c-a4e8-469b-99aa-44c3520112c3" />
+<img width="1001" height="1334" alt="gesicht 1" src="https://github.com/user-attachments/assets/c94cbfcd-6681-4bd8-aebd-cc781ab53d46" />
+<img width="1353" height="2048" alt="blacklight make up" src="https://github.com/user-attachments/assets/1781b724-9532-49c9-ae40-647f16a30a2f" />
 
-<p align="center">
-  <img src="images/makeup-lol-2.jpg" width="250"/>
-</p>
----
 
 ### 📊 Data Skills
 - Excel  
