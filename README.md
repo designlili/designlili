@@ -111,10 +111,15 @@ I create visual experiences that connect **emotion, energy & data**.
 ## ✧ Visual Impressions
 
 <p align="center">
-  <img src="preview1.png" width="30%" style="object-fit: contain;" />
-  <img src="preview2.png" width="30%" style="object-fit: contain;" />
-  <img src="detail.png" width="30%" style="object-fit: contain;" />
+  <img src="preview1.png" width="30%" />
+  <img src="preview2.png" width="30%" />
+  <img src="detail.png" width="30%" />
 </p>
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
+
 ---
 
 ## 🎨 My Blacklight Art
