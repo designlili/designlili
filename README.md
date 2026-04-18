@@ -125,13 +125,9 @@ I create visual experiences that connect **emotion, energy & data**.
 ## 🎨 My Blacklight Art
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db8b4f42-44cb-4b66-ac30-3f835dbf3d51" width="28%" />
-  <img src="https://github.com/user-attachments/assets/d6d3ac9c-a4e8-469b-99aa-44c3520112c3" width="28%" />
-  <img src="https://github.com/user-attachments/assets/c94bcfdc-6681-4bd8-aebd-cc781ab53d46" width="28%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1781b724-9532-49c9-ae40-647f16a30a2f" width="28%" />
+  <img src="bild1.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(0,255,200,0.2);" />
+  <img src="bild2.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(0,255,200,0.2);" />
+  <img src="bild3.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(0,255,200,0.2);" />
 </p>
 
 ---
