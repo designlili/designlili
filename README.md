@@ -111,9 +111,9 @@ I create visual experiences that connect **emotion, energy & data**.
 ## ✧ Visual Impressions
 
 <p align="center">
-  <img src="preview1.png" width="30%" />
-  <img src="preview2.png" width="30%" />
-  <img src="detail.png" width="30%" />
+  <img src="preview1.png" width="28%" />
+  <img src="preview2.png" width="28%" />
+  <img src="detail.png" width="28%" />
 </p>
 
 ---
