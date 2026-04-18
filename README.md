@@ -111,12 +111,9 @@ I create visual experiences that connect **emotion, energy & data**.
 ## ✧ Visual Impressions
 
 <p align="center">
-  <img src="preview1.png" width="80%" />
-</p>
-
-<p align="center">
-  <img src="preview2.png" width="45%" />
-  <img src="detail.png" width="45%" />
+  <img src="preview1.png" width="28%" />
+  <img src="preview2.png" width="28%" />
+  <img src="detail.png" width="28%" />
 </p>
 
 ---
@@ -129,6 +126,15 @@ I create visual experiences that connect **emotion, energy & data**.
   <img src="https://github.com/user-attachments/assets/c94bcfdc-6681-4bd8-aebd-cc781ab53d46" width="28%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1781b724-9532-49c9-ae40-647f16a30a2f" width="28%" />
+</p>
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
+
+---
 
 ### 📊 Data Skills
 - Excel  
