@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="header.png" width="90%" />
+  <img src="header.png" width="85%" />
 </p>
+
+<br>
 
 ## Hi there 👋  
 I'm **Lili Mayerhöfer Kárándi**
