@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" width="90%" />
+</p>
+
 ## Hi there 👋  
 I'm **Lili Mayerhöfer Kárándi**
 
