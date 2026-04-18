@@ -125,9 +125,9 @@ I create visual experiences that connect **emotion, energy & data**.
 ## 🎨 My Blacklight Art
 
 <p align="center">
-  <img src="bild1.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(0,255,200,0.2);" />
-  <img src="bild2.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(0,255,200,0.2);" />
-  <img src="bild3.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px; box-shadow:0 0 25px rgba(0,255,200,0.2);" />
+  <img src="bild1.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px;" />
+  <img src="bild2.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px;" />
+  <img src="bild3.png" style="width:28%; height:200px; object-fit:cover; border-radius:12px;" />
 </p>
 
 ---
