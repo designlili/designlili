@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="header.png" width="85%" />
+  <img src="banner.gif" width="90%" />
 </p>
-
-<br>
 
 ## Hi there 👋  
 I'm **Lili Mayerhöfer Kárándi**
 
 ✨ Artist | 📊 Data Analyst | 🚀 Creator of *Lightscapes*
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
 
 ---
 
@@ -17,11 +19,19 @@ My work connects **emotion, energy & storytelling** with **analytics and technol
 
 ---
 
+✧ ⟡ ✶ ⟡ ✧
+
+---
+
 ### 🎨 Creative Work
 - Neon & blacklight paintings (*Lightscapes*)
 - Custom bodypainting & wearable art
 - Fluorescent fashion & wall designs
 - Digital designs & print templates
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
 
 ---
 
@@ -45,6 +55,10 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 
 ---
 
+✧ ⟡ ✶ ⟡ ✧
+
+---
+
 ### ⚡ What Drives Me
 - Creativity without limits  
 - Personal growth & transformation  
@@ -53,10 +67,18 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 
 ---
 
+✧ ⟡ ✶ ⟡ ✧
+
+---
+
 ### 🌱 Currently
 - Expanding my data analytics skills  
 - Growing my creative business  
 - Creating unique visual experiences  
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
 
 ---
 
@@ -68,9 +90,17 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 
 ---
 
+✧ ⟡ ✶ ⟡ ✧
+
+---
+
 ### 🌌 About Me
 I combine **neon art & blacklight creativity** with **data analytics**.  
 I create visual experiences that connect **emotion, energy & data**.
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
 
 ---
 
@@ -78,13 +108,30 @@ I create visual experiences that connect **emotion, energy & data**.
 
 ### 🌌 Artwork Transformation
 
+## ✧ Visual Impressions
+
+<p align="center">
+  <img src="preview1.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="preview2.png" width="45%" />
+  <img src="detail.png" width="45%" />
+</p>
+
+---
+
 ## 🎨 My Blacklight Art
 
-<img width="1365" height="2048" alt="make up lol" src="https://github.com/user-attachments/assets/db8b4f42-44cb-4b66-ac30-3f835dbf3d51" />
-<img width="1365" height="2048" alt="make up lol 2" src="https://github.com/user-attachments/assets/d6d3ac9c-a4e8-469b-99aa-44c3520112c3" />
-<img width="1001" height="1334" alt="gesicht 1" src="https://github.com/user-attachments/assets/c94cbfcd-6681-4bd8-aebd-cc781ab53d46" />
-<img width="1353" height="2048" alt="blacklight make up" src="https://github.com/user-attachments/assets/1781b724-9532-49c9-ae40-647f16a30a2f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db8b4f42-44cb-4b66-ac30-3f835dbf3d51" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d6d3ac9c-a4e8-469b-99aa-44c3520112c3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c94bcfdc-6681-4bd8-aebd-cc781ab53d46" width="30%" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1781b724-9532-49c9-ae40-647f16a30a2f" width="30%" />
+</p>
 
 ### 📊 Data Skills
 - Excel  
@@ -95,14 +142,26 @@ I create visual experiences that connect **emotion, energy & data**.
 
 ---
 
+✧ ⟡ ✶ ⟡ ✧
+
+---
+
 ### ⚡ Vision
 Create something unique by combining  
 **art, technology & energy**
 
 ---
 
+✧ ⟡ ✶ ⟡ ✧
+
+---
+
 ### 📫 Contact
 💌 Open for collaborations & custom artwork  
+
+---
+
+✧ ⟡ ✶ ⟡ ✧
 
 ---
 
