@@ -40,9 +40,9 @@ My work connects **emotion, energy & storytelling** with **analytics and technol
 ### ✧ Visual Impressions
 
 <p align="center">
-  <img src="preview1.png" style="width:28%; height:180px; object-fit:cover; border-radius:12px;" />
-  <img src="preview2.png" style="width:28%; height:180px; object-fit:cover; border-radius:12px;" />
-  <img src="detail.png" style="width:28%; height:180px; object-fit:cover; border-radius:12px;" />
+  <img src="preview1.png" style="width:28%; border-radius:12px;" />
+  <img src="preview2.png" style="width:28%; border-radius:12px;" />
+  <img src="detail.png" style="width:28%; border-radius:12px;" />
 </p>
 
 ---
