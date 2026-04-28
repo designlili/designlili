@@ -2,7 +2,7 @@
   <img src="banner.gif" width="90%" />
 </p>
 
-# ✶ Hi there 👋  
+# ✶ Hi there||👋  
 I'm **Lili Mayerhöfer Kárándi**
 
 ✨ Artist | 📊 Data Analyst | 🚀 Creator of *Lightscapes*
