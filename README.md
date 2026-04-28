@@ -13,6 +13,33 @@ I'm **Lili Mayerhöfer Kárándi**
 
 ---
 
+## 📊 Data & Tech
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+- Excel  
+- Power BI  
+- Python  
+- PostgreSQL (pgAdmin)  
+- Azure (Basics)
+
+I love turning **data into clarity** and **ideas into visual experiences**.
+
+---
+
+⟡ ✧ ✶ ✧ ⟡
+
+---
+
+
 ## 🌌 About Me
 I blend **neon art & blacklight creativity** with **data-driven thinking**.  
 My work connects **emotion, energy & storytelling** with **analytics and technology**.
@@ -51,31 +78,6 @@ My work connects **emotion, energy & storytelling** with **analytics and technol
 
 ---
 
-## 📊 Data & Tech
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,postgres,github" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</p>
-
-- Excel  
-- Power BI  
-- Python  
-- PostgreSQL (pgAdmin)  
-- Azure (Basics)
-
-I love turning **data into clarity** and **ideas into visual experiences**.
-
----
-
-⟡ ✧ ✶ ✧ ⟡
-
----
 
 ## ⚡ What Drives Me
 - Creativity without limits  
