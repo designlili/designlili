@@ -39,14 +39,17 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 
 ---
 
-<img width="1075" height="860" alt="image" src="https://github.com/user-attachments/assets/07cc128d-bd37-442d-8288-aa68e3315581" />
- 
- Projekt
+⚡Projects
 
+https://github.com/designlili/lightscapes-fire-interface
 
+https://github.com/designlili/lightscapes-neon-energy
 
+https://github.com/designlili/smart-laundry-reminder
 
+https://github.com/designlili/Northwind
 
+https://github.com/designlili/Olist_db
 
 ---
 
