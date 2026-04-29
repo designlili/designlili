@@ -39,6 +39,21 @@ I love turning **data into clarity** and **ideas into visual experiences**.
 
 ---
 
+<img width="1075" height="860" alt="image" src="https://github.com/user-attachments/assets/07cc128d-bd37-442d-8288-aa68e3315581" />
+ 
+ Projekt
+
+
+
+
+
+
+---
+
+⟡ ✧ ✶ ✧ ⟡
+
+---
+
 
 ## 🌌 About Me
 I blend **neon art & blacklight creativity** with **data-driven thinking**.  
