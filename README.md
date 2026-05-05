@@ -2,73 +2,75 @@
   <img src="banner.gif" width="90%" />
 </p>
 
-<h1 align="center">✨ Lili Mayerhöfer-Kárándi ✨</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=24&duration=2800&pause=700&color=FF00CC&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+SQL+%7C+Python;Power+BI+%7C+Data+Visualization;Creative+Mind+%7C+Structured+Thinking;Lightscapes+%7C+Art+meets+Data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Lili+Mayerh%C3%B6fer-K%C3%A1r%C3%A1ndi+%E2%9A%A1" />
 </p>
 
 <p align="center">
-⚡ Turning Data into Insights • Creativity into Impact ⚡
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=24&duration=2800&pause=700&color=FF00CC&center=true&vCenter=true&width=750&lines=Data+Analystin+%7C+SQL+%7C+Python;Power+BI+%7C+Datenvisualisierung;Kreatives+Denken+%7C+Strukturierte+Analyse;Lightscapes+%7C+Kunst+trifft+auf+Daten" />
+</p>
+
+<p align="center">
+⚡ Daten verstehen • Klarheit schaffen • Wirkung erzeugen ⚡
 </p>
 
 ---
 
-## 🚀 Data Analyst | Open for Remote Opportunities
+## 🚀 Data Analystin | Offen für Remote-Positionen
 
 ✔ SQL • Python • Power BI  
-✔ Data Cleaning • Analysis • Visualization  
-✔ Business Thinking & Structured Work  
+✔ Datenbereinigung • Analyse • Visualisierung  
+✔ Strukturierte Arbeitsweise & analytisches Denken  
 
-💡 I transform raw data into clear, actionable insights.
+💡 Ich verwandle Rohdaten in klare, verständliche und nutzbare Erkenntnisse.
 
 ---
 
-## 📊 Data & Tech
+## 📊 Daten & Technologien
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,postgres,github" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-Datenbank-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
 <p align="center">
-Excel • Power BI • Python • PostgreSQL • Azure (Basics)
+Excel • Power BI • Python • PostgreSQL • Azure (Grundlagen)
 </p>
 
 ---
 
-## ⚡ Featured Projects
+## ⚡ Ausgewählte Projekte
 
 ---
 
-### 🛒 Olist E-Commerce Analysis
+### 🛒 Olist E-Commerce Analyse
 
-📊 **Goal:**  
-Analyse von Verkaufs- und Kundendaten zur Identifikation von Umsatztrends und Optimierungspotenzialen  
+📊 **Ziel:**  
+Analyse von Verkaufs- und Kundendaten zur Erkennung von Trends und Optimierungspotenzialen  
 
-⚙️ **Tech Stack:**  
-SQL • PostgreSQL • Data Modeling • BI-ready  
+⚙️ **Technologien:**  
+SQL • PostgreSQL • Datenmodellierung • BI-Vorbereitung  
 
-📈 **Key Insights:**  
+📈 **Erkenntnisse:**  
 - Umsatzentwicklung über Zeit analysiert  
 - Schwache Produktkategorien identifiziert  
 - Top-Kunden und Verkäufer herausgearbeitet  
 
-🧠 **Business Impact:**  
+🧠 **Nutzen:**  
 Unterstützt datenbasierte Entscheidungen zur Umsatzsteigerung  
 
 🔗 https://github.com/designlili/Olist_db  
 
 ---
 
-### 🏢 Northwind Data Analysis
+### 🏢 Northwind Datenanalyse
 
-📊 Analyse klassischer Unternehmensdaten zur Untersuchung von Verkaufsprozessen und Kundenstruktur  
+📊 Analyse klassischer Unternehmensdaten zur Untersuchung von Verkaufsprozessen und Kundenstrukturen  
 
 🔗 https://github.com/designlili/Northwind  
 
@@ -76,13 +78,13 @@ Unterstützt datenbasierte Entscheidungen zur Umsatzsteigerung
 
 ### 🧠 Smart Laundry Reminder
 
-📊 Kombination aus Logik, Automatisierung und Nutzerfreundlichkeit  
+📊 Kombination aus Logik, Automatisierung und nutzerfreundlicher Anwendung  
 
 🔗 https://github.com/designlili/smart-laundry-reminder  
 
 ---
 
-### 🎨 Lightscapes Projects
+### 🎨 Lightscapes Projekte
 
 ✨ Verbindung von kreativer Energie mit digitalem Design  
 
@@ -91,36 +93,36 @@ Unterstützt datenbasierte Entscheidungen zur Umsatzsteigerung
 
 ---
 
-## 🌌 About Me
+## 🌌 Über mich
 
-I combine **data analytics** with **creative expression**.  
+Ich verbinde **Datenanalyse** mit **kreativem Ausdruck**.  
 
-My work connects  
-✨ emotion & storytelling  
-📊 data & structure  
-🚀 technology & vision  
-
----
-
-## ✨ Unique Approach
-
-I blend **creative thinking** with **analytical problem-solving**  
-
-→ Seeing patterns in both **data and human behavior**  
-→ Transforming complexity into **clear insights**
+Meine Arbeit vereint:  
+✨ Emotion & Storytelling  
+📊 Daten & Struktur  
+🚀 Technologie & Vision  
 
 ---
 
-## 🎨 Creative Work
+## ✨ Mein Ansatz
 
-- Neon & blacklight paintings (*Lightscapes*)  
-- Custom bodypainting & wearable art  
-- Fluorescent fashion & wall design  
-- Digital design & print templates  
+Ich kombiniere **kreatives Denken** mit **analytischer Problemlösung**  
+
+→ Muster erkennen – sowohl in Daten als auch im Verhalten  
+→ Komplexe Inhalte verständlich und klar darstellen  
 
 ---
 
-## ✧ Visual Impressions
+## 🎨 Kreative Arbeit
+
+- Neon- & Schwarzlichtkunst (*Lightscapes*)  
+- Bodypainting & tragbare Kunst  
+- Fluoreszierende Mode & Wandgestaltung  
+- Digitale Designs & Druckvorlagen  
+
+---
+
+## ✧ Visuelle Eindrücke
 
 <p align="center">
   <img src="preview1.png" width="28%" style="border-radius:12px;" />
@@ -130,40 +132,40 @@ I blend **creative thinking** with **analytical problem-solving**
 
 ---
 
-## ⚡ What Drives Me
+## ⚡ Was mich antreibt
 
-- Creativity without limits  
-- Growth & transformation  
-- Combining logic + intuition  
-- Creating meaningful impact  
+- Kreativität ohne Grenzen  
+- Persönliches Wachstum  
+- Verbindung von Logik & Intuition  
+- Etwas Sinnvolles schaffen  
 
 ---
 
-## 🌱 Currently
+## 🌱 Aktuell
 
-- Advancing my data analytics skills  
-- Building my creative brand  
-- Developing real-world data projects  
+- Ausbau meiner Data-Analytics-Skills  
+- Weiterentwicklung meiner kreativen Marke  
+- Umsetzung praxisnaher Datenprojekte  
 
 ---
 
 ## 🚀 Vision
 
-Create something unique by combining  
-**art • data • energy • technology**
+Etwas Einzigartiges schaffen durch die Verbindung von  
+**Kunst • Daten • Energie • Technologie**
 
 ---
 
-## 📫 Contact
+## 📫 Kontakt
 
-💌 Open for collaborations, projects & remote opportunities  
+💌 Offen für Projekte, Zusammenarbeit & Remote-Positionen  
 
 - Data Analytics  
-- Creative Work  
-- Custom Design  
+- Kreative Projekte  
+- Individuelle Designs  
 
 ---
 
 <p align="center">
-✨ <i>Never stop creating. Never stop growing.</i> ✨
+✨ <i>Nie aufhören zu wachsen. Nie aufhören zu erschaffen.</i> ✨
 </p>
